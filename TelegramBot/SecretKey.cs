@@ -4,9 +4,14 @@ using System.Text;
 
 namespace TelegramBot
 {
-    public const string apiKey = "895158419:AAGKUZBlXDSuJGXk_r1NwvK_ExLKRfzyojA";
+    
     class SecretKey
     {
+        public const string API_KEY = "895158419:AAGKUZBlXDSuJGXk_r1NwvK_ExLKRfzyojA";
+        public SecretKey()
+        {
+
+        }
         
     }
 }
